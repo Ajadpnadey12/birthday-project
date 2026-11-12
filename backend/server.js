@@ -20,7 +20,8 @@ dob: " 12 November",
 });
 });
 
+
 app.listen(5000, () => {
-  console.log("Backend running at http://localhost:5000");
+  fetch("https://birthday-project-ft5b.vercel.app/api/birthday")
 });
 
