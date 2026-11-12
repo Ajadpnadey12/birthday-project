@@ -32,7 +32,7 @@ export default function Home() {
         </p>
 
         <h1 className="text-4xl font-extrabold text-pink-600 sm:text-6xl">
-          Happy Birthday Deepa ! 🎉
+          Happy Birthday sister ! 🎉
         </h1>
 
         <div className="my-6 text-7xl">🎂</div>
@@ -75,7 +75,7 @@ export default function Home() {
               You Are Amazing!
             </h3>
             <p className="mt-3 leading-7 text-gray-700">
-              Happy Birthday to my amazing Deepa ! May your dreams
+              Happy Birthday to my amazing sister ! May your dreams
               come true and your life always be full of smiles and success.
               Keep shining! ❤️
             </p>
